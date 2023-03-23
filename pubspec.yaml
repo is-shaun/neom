@@ -1,0 +1,41 @@
+name: neom
+description: A flutter project which uses firebase for authentication.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.4 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Auth dependencies
+  google_sign_in: ^6.0.2
+  firebase_core: ^2.8.0
+  firebase_auth: ^4.3.0
+
+  # Animations
+  skeleton_animation: ^0.1.4
+  animate_do: ^3.0.2
+
+  # UI management
+  provider: ^6.0.5
+
+  # Others
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  rename: ^2.1.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/

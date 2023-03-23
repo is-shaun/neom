@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3512084634",
+    "project_id": "neom-ishan",
+    "storage_bucket": "neom-ishan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3512084634:android:a1c75e0fe47f269f8e1723",
+        "android_client_info": {
+          "package_name": "com.ishan.neom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3512084634-glgl6p4aie01nenno3hjnlf5eoo9b2ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9t7qWxIAVXdfkxXFsYpPLyCb205GCDMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3512084634-5t45s8533584qco64nhk4sl619nom7ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
